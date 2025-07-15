@@ -1,7 +1,6 @@
-```markdown
 # Compare_with_Model-Groundtruth
 
-This project, **Compare_with_Model-Groundtruth**, provides a Python-based utility for evaluating machine learning model performance by comparing model predictions with ground truth annotations. It is designed for tasks such as object detection, classification, or other predictive modeling tasks, offering tools to compute performance metrics like accuracy, precision, recall, F1-score, and confusion matrices.
+This project, **Compare_with_Model-Groundtruth**, is a Python-based utility for evaluating machine learning model performance by comparing model predictions with ground truth annotations. It is designed for tasks such as object detection, classification, or other predictive modeling tasks, offering tools to compute performance metrics like accuracy, precision, recall, F1-score, and confusion matrices.
 
 ## Table of Contents
 - [Overview](#overview)
@@ -126,4 +125,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgments
 - Inspired by evaluation tools in machine learning frameworks like scikit-learn and YOLO-based projects.
 - Thanks to the open-source community for providing libraries such as `scikit-learn`, `pandas`, and `matplotlib`.
-```
